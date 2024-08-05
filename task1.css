@@ -1,0 +1,29 @@
+.details{
+    border: 1px solid blue;
+    padding: 20px 30px 40px 50px;
+    height: 30%;
+    width: 20%;
+    margin: 15%;
+}
+.user{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 15px;
+}
+body{
+    background-image: url('./image/sky.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.user{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 20px;
+}
+.login{
+    text-align: center;
+}
+.para{
+    text-align: end;
+}

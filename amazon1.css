@@ -1,0 +1,26 @@
+.image{
+    height: 70px;
+    width: 50px;
+}
+.main{
+    background-color: black;
+    height: 100vh;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:center;
+}
+.list{  
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:white;
+}

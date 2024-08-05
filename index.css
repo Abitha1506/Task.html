@@ -1,0 +1,18 @@
+.port{
+}
+.list{
+    display: flex;
+    gap: 55px;
+    margin-left: 50%;
+    
+}
+body{
+    background-image: url('./image/office-background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+image{
+    display: flex;
+    gap: 15px;
+}
